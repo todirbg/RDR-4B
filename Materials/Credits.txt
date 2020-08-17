@@ -1,0 +1,6 @@
+PBR Materials courtesy of Brian https://freepbr.com/about-free-pbr/
+and Lennart Demes https://cc0textures.com/
+
+https://freepbr.com/materials/scuffed-iron-pbr-metal-material/
+https://freepbr.com/materials/worn-scuffed-plastic-pbr-material/
+https://cc0textures.com/view?id=Metal003
