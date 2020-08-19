@@ -1,3 +1,20 @@
+--
+-- CDDL HEADER START
+--
+-- This file and its contents are supplied under the terms of the
+-- Common Development and Distribution License ("CDDL"), version 1.0.
+-- You may only use this file in accordance with the terms of version
+-- 1.0 of the CDDL.
+--
+-- A full copy of the text of the CDDL should have accompanied this
+-- source.  A copy of the CDDL is also available via the Internet at
+-- http://www.illumos.org/license/CDDL.
+--
+-- CDDL HEADER END
+--
+--
+-- Copyright 2020 Todor Radonov. All rights reserved.
+--
 size = {1002, 1060}
 
 
@@ -23,7 +40,7 @@ components = {
     textureLit {
       position = {148, 223, 706, 507},
       image =     get(dis),
-      brt2 = 1, --function() return get(brt_dr) end,
+      brt2 = 1, 
       x = 706,
       y = 507,
     },  
@@ -31,7 +48,7 @@ components = {
     texture {
       position = {0, 0, 1002, 1060},
       image =     get(radar),
-      brt2 = 1, --function() return get(brt_dr) end,
+      brt2 = 1,
     },  	
 	
     textureRotate {
